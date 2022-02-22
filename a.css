@@ -1,0 +1,136 @@
+
+*{
+    text-align: center;
+    margin: 0;
+    border-radius: 20px;
+    font-size: 20px;
+    background-color: rgb(189, 197, 170);
+}   
+a{
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+    background-color:rgb(61, 58, 58) ;
+}
+
+img{
+    width: 45%;
+   
+}
+
+nav,footer{
+background-color: rgb(61, 58, 58);
+color: white;
+padding: 20px;
+font-size: 20px;
+
+ }
+ section{
+   
+    margin: auto;
+    width: 60%; 
+    
+ }   
+
+ h2{
+background-color: rgb(75, 72, 69); 
+color: white;
+font-size: 40px;
+
+}
+
+h3{
+    font-size: 30px;
+    width: 30%;
+    margin: auto;
+     color: white;
+    margin-top: 15px;
+    margin-bottom: 15px;
+   
+
+} 
+#for{
+    margin-top: 100px;
+    background-color: rgb(189, 197, 170);
+    padding: 60px 0;
+    /* text-align: right; */
+display: flex;
+justify-content: space-around;
+font-size: 25px;
+    
+}
+.contact_us h1{
+    border-bottom: 4px solid rgb(39, 39, 38) ;
+    display: inline-block;
+    font-size: 30px ;
+   
+    color: white ;
+ 
+    
+}
+.contact_us{
+    /* border:  2px solid red; */
+    width: 200px;
+    line-height: 50px;
+    padding-right: 20px;
+     /* background-color:  rgb(241, 245, 234); */
+    text-align: right ;
+    font-size: 25px;
+    /* background-color: aliceblue; */
+}
+
+#sh{
+width: 25%;
+}
+.ab{
+    font-size: 25px !important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+}
+/* h1,strong{
+    color: white;
+    border:  1px solid;
+    width: 70%;
+    margin: auto;
+    font-size: 30px; */
+
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+    /* justify-content: space-around; */
+  
+    margin-top: 40px;
+    padding-top: 20px;
+   
+  
+   
+}
+.im{
+   height: 400px;
+   width:400px;
+ 
+}
+ .real-form{
+/* border: 2px solid ; */
+/* background-color: white; */
+width: 55%;
+text-align : right ;
+box-shadow: 5px 5px 25px gray;
+padding-right: 20px;
+padding-top: 20px;
+  }
+  input{
+      border: none;
+      border-bottom: 1px solid rgb(250, 247, 247);
+      height: 30px;
+      width: 100%;
+  }
+  button{
+     margin-bottom: 20px;
+    font-size:25px;
+     
+  }
+  h1{
+      font-size: 25px;
+  }
+  
